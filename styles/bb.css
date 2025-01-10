@@ -1,5 +1,16 @@
-.div{
+.is{
     background-color: darkblue;
 font-size: larger;
 color: antiquewhite;
+border: 200px solid rgb(0, 0, 0);
+padding: 30px;
+margin: 10px;
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border-style: dotted;
+}
+h3{
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: crimson;
 }
